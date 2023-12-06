@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to create a Full-Stacked Spline Area chart
+# Charts for WinForms - How to create a Full-Stacked Spline Area chart
 
 The following example demonstrates how to create a [Full-Stacked Spline Area](https://docs.devexpress.com/WindowsForms/3941/controls-and-libraries/chart-control/series-views/2d-series-views/area-series-views/full-stacked-spline-area-chart?p=netframework) chart at runtime.
 

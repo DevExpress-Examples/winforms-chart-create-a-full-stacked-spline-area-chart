@@ -22,7 +22,7 @@ Note that this series view type is associated with the [XY-Diagram](https://docs
 * [Full-Stacked Spline Area Chart](https://docs.devexpress.com/WindowsForms/3941/controls-and-libraries/chart-control/series-views/2d-series-views/area-series-views/full-stacked-spline-area-chart)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-create-a-full-stacked-spline-area-chart&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-create-a-full-stacked-spline-area-chart&~~~was_helpful=no)
 
